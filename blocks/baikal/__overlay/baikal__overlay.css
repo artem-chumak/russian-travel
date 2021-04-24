@@ -4,7 +4,10 @@
   max-width: 1184px;
   height: 100%;
   margin: auto;
-  top: 0; bottom: 0; left: 0; right: 0;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
   background: rgba(42, 44, 47, .3);
   display: -webkit-box;
   display: -ms-flexbox;
@@ -23,7 +26,6 @@
   -o-transition: .3s;
   transition: .3s;
   text-decoration: none;
-  margin: 0 auto;
 }
 
 .baikal__overlay:hover {
