@@ -7,7 +7,7 @@ Responsive layout from 320px to 1280px
 
 * HTML
 * CSS (flex, grid, @media)
-* БЭМ nested
+* BEM nested
 
 ## Development plan
 
