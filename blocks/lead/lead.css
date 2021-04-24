@@ -1,0 +1,28 @@
+.lead {
+  max-width: 1280px;
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 56px 148px 0;
+}
+
+@media screen and (max-width: 1280px) {
+
+  .lead {
+    padding: calc(56px - (1280px - 100vw)/32) calc(148px - (1280px - 100vw)/2.56) 0;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+
+  .lead {
+    padding: 48px calc(48px - (1024px - 100vw)/5.33) 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .lead {
+    padding: 48px 0 0;
+  }
+}

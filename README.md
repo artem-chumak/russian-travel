@@ -1,23 +1,17 @@
-# Проект 3: Путешествие по России
+# Travelling in Russia
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+The site created as practice work during my studies in Yandex.Practicum.
+Responsive layout from 320px to 1280px
 
-**Интро**
+## Tech
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+* HTML
+* CSS (flex, grid, @media)
+* БЭМ nested
 
-**Figma**
+## Development plan
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-**Картинки**
+**Design**
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+* There are some odd margins 33px and 73px.

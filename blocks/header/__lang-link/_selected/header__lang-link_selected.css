@@ -1,0 +1,12 @@
+.header__lang-link_selected {
+  pointer-events: none;
+  cursor: default;
+  border-bottom: 2px solid #fff;
+}
+
+@media screen and (max-width: 480px) {
+
+  .header__lang-link_selected {
+    border-bottom: 1px solid #fff;
+  }
+}

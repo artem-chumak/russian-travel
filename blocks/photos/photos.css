@@ -1,0 +1,27 @@
+.photos {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 48px;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 1024px) {
+
+  .photos {
+    padding: 0 calc(48px - (1024px - 100vw)/10.66);
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .photos {
+    padding: 0 calc(24px - (768px - 100vw)/56);
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  .photos {
+    padding: 0 16px;
+  }
+}

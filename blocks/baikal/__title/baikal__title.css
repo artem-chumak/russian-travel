@@ -1,0 +1,28 @@
+.baikal__title {
+  font-size: 72px;
+  line-height: 1.055;
+  font-weight: 900;
+  color: #fff;
+  margin: 0 0 32px 0;
+  max-width: 560px;
+  text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+
+  .baikal__title {
+    font-size: calc(72px - (768px - 100vw)/11.2);
+    margin: 0 0 calc(32px - (768px - 100vw)/28) 0;
+    max-width: calc(560px - (768px - 100vw)/1.64);
+  }
+}
+
+@media screen and (max-width: 320px) {
+
+  .baikal__title {
+    font-size: 32px;
+    line-height: 1.093;
+    margin: 0 0 16px 0;
+    max-width: 288px;
+  }
+}

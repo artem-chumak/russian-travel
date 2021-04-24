@@ -1,0 +1,32 @@
+.cards__image {
+  display: block;
+  width: 460px;
+}
+
+@media screen and (max-width: 1280px) {
+
+  .cards__image {
+    width: calc(460px - (1280px - 100vw)/12.8);
+  }
+}
+
+@media screen and (max-width: 1024px) {
+
+  .cards__image {
+    width: calc(440px - (1024px - 100vw)/2.56);
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .cards__image {
+    width: calc(340px - (768px - 100vw)/2.2);
+  }
+}
+
+@media screen and (max-width: 600px) {
+
+  .cards__image {
+    width: 100%;
+  }
+}
