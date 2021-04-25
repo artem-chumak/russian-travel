@@ -1,0 +1,20 @@
+.intro__text-box {
+  max-width: 690px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+@media screen and (max-width: 1024px) {
+
+  .intro__text-box {
+    max-width: calc(690px + (1024px - 100vw)/8.53);
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+  .intro__text-box {
+    max-width: 720px;
+  }
+}

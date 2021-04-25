@@ -19,7 +19,7 @@
 @media screen and (max-width: 768px) {
 
   .cards {
-    gap: 73px;
+    gap: 72px; /** в макете два варианта, выбрал чётное число */
   }
 }
 

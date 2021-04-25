@@ -1,6 +1,6 @@
 # Travelling in Russia
 
-The site created as practice work during my studies in Yandex.Practicum.
+[The site](https://artem-chumak.github.io/russian-travel/) created as practice work during my studies in Yandex.Practicum.
 Responsive layout from 320px to 1280px
 
 ## Tech
@@ -15,3 +15,4 @@ Responsive layout from 320px to 1280px
 **Design**
 
 * There are some odd margins 33px and 73px.
+* Section Baikal. The width for subtitle should be a little larger.
