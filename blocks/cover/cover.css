@@ -9,16 +9,14 @@
 
 @media screen and (max-width: 1280px) {
 
-  .cover
- {
+  .cover {
     padding: 0 calc(48px - (1280px - 100vw)/5.33);
   }
 }
 
 @media screen and (max-width: 1024px) {
 
-  .cover
- {
+  .cover {
     padding: 0;
   }
 }

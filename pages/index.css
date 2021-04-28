@@ -24,7 +24,6 @@
 @import url(../blocks/places/places.css); /** places */
 @import url(../blocks/places/__cards/places__cards.css);
 @import url(../blocks/card/card.css); /** card */
-@import url(../blocks/card/__item/card__item.css);
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__website/card__website.css);
 @import url(../blocks/card/__url-heading/card__url-heading.css);

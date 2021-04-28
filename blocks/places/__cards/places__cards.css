@@ -11,21 +11,21 @@
 
 @media screen and (max-width: 1024px) {
 
-  .cards {
+  .places__cards {
     gap: calc(80px - (1024px - 100vw)/42.66);
   }
 }
 
 @media screen and (max-width: 768px) {
 
-  .cards {
+  .places__cards {
     gap: 72px; /** в макете два варианта, выбрал чётное число */
   }
 }
 
 @media screen and (max-width: 600px) {
 
-  .cards {
+  .places__cards {
     gap: 50px;
   }
 }
