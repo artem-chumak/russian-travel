@@ -1,4 +1,4 @@
-.cards__title {
+.card__title {
   font-weight: 900;
   font-size: 72px;
   line-height: 1.055;
@@ -8,14 +8,14 @@
 
 @media screen and (max-width: 1024px) {
 
-  .cards__title {
+  .card__title {
     font-size: calc(72px - (1024px - 100vw)/8.53);
   }
 }
 
 @media screen and (max-width: 768px) {
 
-  .cards__title {
+  .card__title {
     font-size: calc(42px - (768px - 100vw)/44.8);
     line-height: 1.095;
   }
@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 600px) {
 
-  .cards__title {
+  .card__title {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     padding: 0 calc(21px - (600px - 100vw)/56);
@@ -32,7 +32,7 @@
 
 @media screen and (max-width: 320px) {
 
-  .cards__title {
+  .card__title {
     font-size: 32px;
     padding: 0 16px;
   }

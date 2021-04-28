@@ -1,4 +1,4 @@
-.cards__item {
+.card {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: 460px 40px 1fr;
@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 1280px) {
 
-  .cards__item {
+  .card {
     -ms-grid-columns: calc(460px - (1280px - 100vw)/12.8) calc(40px - (1280px - 100vw)/128) 1fr;
     grid-template-columns: calc(460px - (1280px - 100vw)/12.8) 1fr;
     grid-column-gap: calc(40px - (1280px - 100vw)/128);
@@ -18,7 +18,7 @@
 
 @media screen and (max-width: 1024px) {
 
-  .cards__item {
+  .card {
     -ms-grid-columns: calc(440px - (1024px - 100vw)/2.56) calc(32px - (1024px - 100vw)/64) 1fr;
     grid-template-columns: calc(440px - (1024px - 100vw)/2.56) 1fr;
     grid-column-gap: calc(32px - (1024px - 100vw)/64);
@@ -27,7 +27,7 @@
 
 @media screen and (max-width: 768px) {
 
-  .cards__item {
+  .card {
     -ms-grid-columns: calc(340px - (768px - 100vw)/2.2) 28px 1fr;
     grid-template-columns: calc(340px - (768px - 100vw)/2.2) 1fr;
     grid-column-gap: 28px;
@@ -36,7 +36,7 @@
 
 @media screen and (max-width: 600px) {
 
-  .cards__item {
+  .card {
     -ms-grid-columns: 1fr;
     grid-template-columns: 1fr;
     gap: 32px;

@@ -1,4 +1,4 @@
-.cards__link {
+.card__link {
   font-size: 18px;
   line-height: 1.22;
   color: #fff;
@@ -10,6 +10,6 @@
   transition: opacity .3s linear;
 }
 
-.cards__link:hover {
+.card__link:hover {
   opacity: .8;
 }

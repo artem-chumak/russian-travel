@@ -1,11 +1,6 @@
-.cards__website {
-  -ms-flex-item-align: end;
-  align-self: flex-end;
-}
-
 @media screen and (max-width: 600px) {
 
-  .cards__website {
+  .card__paragraph {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     padding: 0 calc(21px - (600px - 100vw)/56);
@@ -14,7 +9,7 @@
 
 @media screen and (max-width: 320px) {
 
-  .cards__website {
+  .card__paragraph {
     padding: 0 16px;
   }
 }
