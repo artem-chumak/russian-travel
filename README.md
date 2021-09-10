@@ -1,18 +1,30 @@
-# Travelling in Russia
+<p align="center"><img src="https://img.icons8.com/fluency/100/000000/tropics.png"/></p>  
 
-[The site](https://artem-chumak.github.io/russian-travel/) created as practice work during my studies in Yandex.Practicum.
-Responsive layout from 320px to 1280px
+# <p align="center">Russia travel</p>
 
-## Tech
+<p align="center">Проект <a href="https://artem-chumak.github.io/russian-travel/">сайта</a>о путешествиях по России.</p>  
 
-* HTML
-* CSS (flex, grid, @media)
-* BEM nested
+---
+### 🧭   Инструкция по развёртыванию проекта после скачивания.
 
-## Development plan
+Нужно просто открыть файл index.html
 
+### ⚙️   Стек технологий:
 
-**Design**
+   HTML. Семантическая вёрстка.  
+   <img src="https://img.icons8.com/color/36/000000/html-5--v1.png"/>  
+   CSS. Адаптивная вёрстка. Flex, grid, @media.  
+   <img src="https://img.icons8.com/color/36/000000/css3.png"/>  
+   BEM nested.  
+   <img src="https://img.icons8.com/fluency/36/000000/plugin.png"/>  
+   Figma.  
+   <img src="https://img.icons8.com/color/32/000000/figma--v1.png"/>  
 
-* There are some odd margins 33px and 73px.
-* Section Baikal. The width for subtitle should be a little larger.
+### 🛸   Функциональные возможности проекта:
+
+- адаптивная вёрстка для разрешений экрана от 320 px,
+- ссылки на внешние ресурсы,
+
+---
+Спасибо за внимание!  
+_icons by [icons8.com](https://icons8.com/)_
