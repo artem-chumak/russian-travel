@@ -1,8 +1,8 @@
-<p align="center"><img src="https://img.icons8.com/fluency/100/000000/tropics.png"/></p>  
+<p align="center"><img src="https://img.icons8.com/clouds/100/000000/russian-federation.png"/></p>  
 
 # <p align="center">Russia travel</p>
 
-<p align="center">Проект <a href="https://artem-chumak.github.io/russian-travel/">сайта</a>о путешествиях по России.</p>  
+<p align="center">Проект <a href="https://artem-chumak.github.io/russian-travel/">сайта</a> о путешествиях по России.</p>  
 
 ---
 ### 🧭   Инструкция по развёртыванию проекта после скачивания.
